@@ -1,11 +1,13 @@
 # walmart-sales-dashboard
 1. Walmart Sales Dashboard
-An end-to-end Power BI solution analyzing retail health—tracking revenue growth, departmental trends, and regional performance across Walmart’s supply chain.
+   
+   An end-to-end Power BI solution analyzing retail health—tracking revenue growth, departmental trends, and regional performance across Walmart’s supply chain.
 
 
 
 2. Purpose
-The Walmart Sales Performance Dashboard is a comprehensive Power BI analytics tool designed to track and evaluate retail health across diverse store locations. It provides stakeholders with actionable insights into revenue growth, departmental performance, and regional sales trends to drive data-informed inventory and marketing decisions.
+
+   The Walmart Sales Performance Dashboard is a comprehensive Power BI analytics tool designed to track and evaluate retail health across diverse store locations.    It provides stakeholders with actionable insights into revenue growth, departmental performance, and regional sales trends to drive data-informed inventory and    marketing decisions.
 
 
 
@@ -48,10 +50,12 @@ The dataset consists of approximately 3,000+ rows and 16 column attributes, incl
 6. Highlights
 
 • Business Problem
-Retail giants like Walmart manage massive volumes of data across multiple years, regions, and product categories. Without a centralized analytical view, it is difficult for stakeholders to identify which states drive the most revenue, how different customer segments behave, or if delivery timelines are meeting efficiency standards.
+
+  Retail giants like Walmart manage massive volumes of data across multiple years, regions, and product categories. Without a centralized analytical view, it is     difficult for stakeholders to identify which states drive the most revenue, how different customer segments behave, or if delivery timelines are meeting           efficiency standards.
 
 • Goal of the Dashboard
-The goal of this Power BI project is to deliver an interactive visual tool that:
+
+ The goal of this Power BI project is to deliver an interactive visual tool that:
 
   - Tracks Core KPIs:
     Monitors total sales ($678.78K), profit ($91.52K), and order quantity (10.62K) at a glance.
@@ -107,4 +111,4 @@ The goal of this Power BI project is to deliver an interactive visual tool that:
 
 
 6. Demo
-    The demo of dashboard is : 
+    The demo of dashboard is : ![Alt Text](https://github.com/nishant2244/walmart-sales-dashboard/blob/main/Snapshot%20of%20dashboard.png)
